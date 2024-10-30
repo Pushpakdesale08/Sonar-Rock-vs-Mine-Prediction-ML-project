@@ -1,6 +1,7 @@
 # Sonar-Rock-vs-Mine-Prediction-ML-project
 
-**Project Overview**
+**Project Overview-**
+
 This project aims to classify sonar signals as reflecting off either rocks or mines using machine learning. The primary dataset consists of sonar signals that bounce off either a metal cylinder (mimicking mines) or various rocks. The goal is to develop a predictive model that can accurately classify these sonar signals, aiding in the detection of underwater mines in a cost-effective and efficient manner.
 
 **Key objectives:**
@@ -10,7 +11,7 @@ This project aims to classify sonar signals as reflecting off either rocks or mi
 - Evaluate model performance using metrics such as only accuracy score.
 - Predict and classify sonar signals based on trained model performance.
 
-**Dataset**
+**Dataset-**
 
 Source: UCI Machine Learning Repository (Sonar dataset).
 Description: This dataset contains 208 samples, each with 60 features representing sonar signal intensities at different frequencies.
@@ -22,7 +23,7 @@ R: Signal reflects off a rock.
 - 60 numeric values representing sonar signal frequencies.
 - Label: "R" for rock and "M" for mine.
 
-**Project Steps**
+**Project Steps-**
 
 1.Data Preprocessing:
 
